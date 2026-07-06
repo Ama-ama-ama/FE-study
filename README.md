@@ -1,2 +1,19 @@
-# FE-study
-Learning log for the Fundamental Information Technology Engineer Examination (FE)
+# FE Study
+
+基本情報技術者試験の学習記録です。
+
+## 学習目的
+
+- 基本情報技術者試験 合格
+- コンピュータサイエンスの基礎力向上
+- アルゴリズム・ネットワーク・データベース・セキュリティの理解
+
+## 使用教材
+
+- キタミ式 基本情報技術者
+- 過去問道場
+- ChatGPT
+
+## 学習期間
+
+2026年7月〜
